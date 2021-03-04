@@ -1,16 +1,13 @@
 <!DOCTYPE html>
 <html  >
-<!-- Style stuffs -->
+
   <head>
-    <style>
-      div {
-        background-image: url('live.dj.background.png');
-      }
-    </style>
   </head>
   
-  <!-- This sections adds the live strean video -->
-  <body>
+  <!-- Content goes here -->
+  <body>  
+    
+    <!-- This sections adds the live strean video -->
     <section class="video1 cid-sgOBH7bQnK" id="video1-1a">
           <div class="centre">
               <div class="col-12 col-lg-10">
@@ -22,6 +19,40 @@
               </div>
           </div>
     </section>
+    
+ <!--   <img src="live.dj.background.png" alt="Girl in a jacket" style="width:500px;height:380px;"> -->
+    
+    <!-- This adds a banner type image to the page -->
+    <div style="background-image: url('live.dj.background.png');
+        background-size: cover; height:500px; padding-top:1px;">
+    </div>
+    
+    
+    
+   <form>
+  <div class="row">
+    <div class="large-12 columns">
+      <div id='messagesDiv' class="msg-wrapper"></div>
+      <hr />
+     </div>
+  </div>
+  
+  <div class="row">
+    <div class="large-12 columns">
+      <label>Name
+        <input type="text" id='nameInput' placeholder='Name' />
+      </label>
+    </div>
+  </div>
+  <div class="row">
+    <div class="large-12 columns">
+      <label>Message
+        <textarea id='messageInput' placeholder='Message'></textarea>
+      </label>
+    </div>
+  </div>
+
+</form>
   </body>
   
  </html>
