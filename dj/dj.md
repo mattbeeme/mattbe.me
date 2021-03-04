@@ -11,5 +11,5 @@ Given the top end equipment i now own, i also built my own DJ booth in my spare 
 
 [comment]: <> (Include picture of equipment)
 
-## [Live DJ Stream](dj/live.dj.html)
+## [Live DJ Stream](live.dj.html)
 If i am online doing a live set, this is where you will find the lin
