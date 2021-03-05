@@ -4,6 +4,12 @@ Years ago, I hated dance music, it was for people who can't manage to think abou
 I started with Virtual DJ (Yuck!) and a twenty quid mixer from cash-converter, I got the bug. As life went on I moved up in equipment and skills.
 I don't see myself as a DJ, I have no aspiration to be one, I simply learnt how to DJ because it entertains my brain and over time I realised that there is a massive mental health benefit too this.
 
+## [Live DJ Stream](live.dj.html)
+If i am online doing a live set, this is where you will find the link
+
+## [Recorded Sets](play.dj.html)
+Here you'll find mixcloud links to mixes & sets i've recorded
+
 ## Equipment
 
 Finally reached a point when I could purchase the stuff i've always wanted, I currently have a pioneerDJ XDJ-XZ controller paired with 2 pioner 1000 turntables (turntables are more for nostalgia reasons, when I fancy like re-visiting the past I fire these up).
@@ -11,8 +17,4 @@ Given the top end equipment i now own, i also built my own DJ booth in my spare 
 
 [comment]: <> (Include picture of equipment)
 
-## [Live DJ Stream](live.dj.html)
-If i am online doing a live set, this is where you will find the link
 
-## [Recorded Sets](play.dj.html)
-Here you'll find mixcloud links to mixes & sets i've recorded
