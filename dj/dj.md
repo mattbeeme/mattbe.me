@@ -15,3 +15,4 @@ Given the top end equipment i now own, i also built my own DJ booth in my spare 
 If i am online doing a live set, this is where you will find the link
 
 ## [Recorded Sets](play.dj.html)
+Here you'll find mixcloud links to mixes & sets i've recorded
