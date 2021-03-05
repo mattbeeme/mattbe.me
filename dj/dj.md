@@ -1,4 +1,4 @@
-# About MattBe - The kinda of DJ
+# About MattBe - Kind of a DJ
 
 Years ago, i hated dance music, it was for people who can't manage to think about anything but boom, boom, boom. Then, randomly, i got dragged to a club where a cousin of mine was dj-ing, as i watched him being the decks i started to understand i had massively miss-understood dance music.
 I started with Virtual DJ (Yuck!) and a twenty quid mixer from cash-converter, i got the bug. As life went on i moved up in equipment and skills.
