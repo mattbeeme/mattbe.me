@@ -10,6 +10,8 @@ If i am online doing a live set, this is where you will find the link
 ## [Recorded Sets](play.dj.html)
 Here you'll find mixcloud links to mixes & sets i've recorded
 
+[Dj Sets](https://mypartofthecloud-mattbe-djsets-public.ams3.digitaloceanspaces.com/list_sets.html)
+
 ## Equipment
 
 Finally reached a point when I could purchase the stuff i've always wanted, I currently have a pioneerDJ XDJ-XZ controller paired with 2 pioner 1000 turntables (turntables are more for nostalgia reasons, when I fancy like re-visiting the past I fire these up).
